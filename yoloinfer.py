@@ -9,3 +9,5 @@ for result in results:
 
 print(results[0].xywh)
 print(results[0].cls)
+
+#수정
